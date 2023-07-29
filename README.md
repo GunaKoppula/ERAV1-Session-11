@@ -75,7 +75,8 @@ Estimated Total Size (MB): 5084.19
 ```
 
 ### LR Finder
-![image](https://github.com/RaviNaik/ERA-SESSION11/assets/23289802/a16c35b2-cce0-4244-8206-5a076086075c)
+![image](https://github.com/GunaKoppula/ERAV1-Session-11/assets/61241928/3caab3a2-5f8d-4680-b261-f4c0b53f4c58)
+
 
 ### Training Log
 ```python
@@ -180,15 +181,16 @@ Loss=0.06 Accuracy=98.16: 100%|██████████| 98/98 [00:09<00:0
 Test set: Average loss: 0.3003, Accuracy: 9153/10000 (91.53%)
 ```
 ### Metrics Curves
-![image](https://github.com/RaviNaik/ERA-SESSION11/assets/23289802/2ebb515a-be7b-4bb4-9788-39f66b6d7ed9)
-![image](https://github.com/RaviNaik/ERA-SESSION11/assets/23289802/a84fbf8b-f6ea-4f5d-915b-166fd59aa049)
+![image](https://github.com/GunaKoppula/ERAV1-Session-11/assets/61241928/98f8fc20-8e12-4447-8240-e51daab44d40)
+![image](https://github.com/GunaKoppula/ERAV1-Session-11/assets/61241928/f9b1e974-4d43-4541-b356-7c13f140f4b2)
 
 ### Misclassified Images
 Actual | Predicted
-![image](https://github.com/RaviNaik/ERA-SESSION11/assets/23289802/2ebe4019-2d2d-4179-ad79-162bdac509ee)
+![image](https://github.com/GunaKoppula/ERAV1-Session-11/assets/61241928/aa5a889a-9119-432b-be03-dfd3da0f31d2)
 
 ### Gradcam Results
 Actual | Predicted
-![image](https://github.com/RaviNaik/ERA-SESSION11/assets/23289802/7583cd33-e243-4f69-9bf5-555db6384a68)
+![image](https://github.com/GunaKoppula/ERAV1-Session-11/assets/61241928/5cf3061b-b1c5-4740-9420-8c25f99e9d8e)
+
 
 
